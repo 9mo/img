@@ -1,4 +1,3 @@
 # img
 
-![alt text](termtosvg_mcpinoig.svg
-)
+![alt text](termtosvg_mcpinoig.svg)
