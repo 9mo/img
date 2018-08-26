@@ -1,6 +1,6 @@
 # img
 
-![](termtosvg_mcpinoig.svg)  
+![](output.gif)  
 ![<img src="termtosvg_squx_sn5.svg">]()  
 
 [<img src="termtosvg_squx_sn5.svg">]()
